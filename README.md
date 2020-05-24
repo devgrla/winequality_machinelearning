@@ -1,5 +1,5 @@
 # winequality_machinelearning
-Classification and regression examples using winequality dataset.
+Classification and regression examples using winequality dataset and scikit learn library.
 
 Citation Request:
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
